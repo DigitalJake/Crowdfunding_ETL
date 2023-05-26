@@ -5,17 +5,24 @@ The Crowdfunding_ETL mini project is divided into the following subsections:
 
 ### Create the Category and Subcategory DataFrames
 
+Celina
+
 
 
 ### Create the Campaign DataFrame
 
+Celina and Jacob
 
 
 ### Create the Contacts DataFrame
 
+Jacob
+
 
 
 ### Create the Crowdfunding Database
+
+Jacob
 
 
 
